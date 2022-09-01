@@ -1,0 +1,27 @@
+{
+  "name": "coffee-three-h",
+  "version": "1.0.0",
+  "description": "This is a first my library for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hauphvn/coffee-three-h.git"
+  },
+  "keywords": [
+    "coffee-three-h"
+  ],
+  "author": "hauphvn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hauphvn/coffee-three-h/issues"
+  },
+  "homepage": "https://github.com/hauphvn/coffee-three-h#readme",
+  "devDependencies": {
+    "@types/react": "^18.0.18",
+    "react": "^18.2.0",
+    "typescript": "^4.8.2"
+  }
+}
